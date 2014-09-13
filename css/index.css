@@ -1,3 +1,10 @@
 #intro{
 	font-size: 3em;
 }
+#gen{
+	display: none;
+}
+#acknowledge a{
+	color: white;
+	text-decoration: none;
+}
