@@ -1,5 +1,4 @@
 #intro{
-	// font-size: 3em;
 	text-align: center;
 }
 #gen{
@@ -11,8 +10,22 @@
 	text-transform: uppercase;
 	margin-bottom: 0.4em;
 }
+#projects a,
 #lived a,
 #education a{
 	width: 100%;
 	text-align: center;
+}
+#projects a{
+	// background-color: #F64747;
+}
+body{
+	h1,h2{
+		font-family: "Open Sans Condensed",cursive;		
+	}
+	a{
+		font-family: "Open Sans Condensed",cursive;
+		font-size: 2em;
+		font-weight: 400;
+	}
 }
