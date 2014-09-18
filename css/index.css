@@ -1,10 +1,24 @@
-#intro{
-	font-size: 3em;
+/* line 1, ../sass/index.scss */
+#intro {
+  text-align: center;
 }
-#gen{
-	display: none;
+
+/* line 5, ../sass/index.scss */
+#gen {
+  display: none;
 }
-#acknowledge a{
-	color: white;
-	text-decoration: none;
+
+/* line 8, ../sass/index.scss */
+#acknowledge a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom: 0.4em;
+}
+
+/* line 15, ../sass/index.scss */
+#lived a,
+#education a {
+  width: 100%;
+  text-align: center;
 }
