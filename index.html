@@ -1,88 +1,42 @@
-<html>
-<head>
-	<title>abhiShandy@GITHUB</title>
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-	<div class="container">
-		<div class="row" id="intro">
-			<div class="col-xs-6 col-xs-offset-3">
-				<h1>
-					<a href="http://abhishandy.github.io/">
-						<abbr title="Abhishek Shandilya">abhiShandy</abbr>
-					</a>
-				</h1>			
+<!DOCTYPE html>
+<html lang="en">
+ 	<head>
+ 		<title>LUNAR</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<link rel="shortcut icon" href="img/favicon.ico">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+		<script type="text/javascript" src="js/script.js"></script>
+	</head>
+	<body>
+		<div class="container-fluid" >	<!-- don't remove fuid --> 
+			<div class="row">
+				<!-- =======================================Space================================= -->
+				<!-- <p onmousedown="test(event)">Click here</p> -->
+				<div id="bg">
+					<img class="img-responsive" src="img/background.jpg" alt="BG">
+				</div>				
+				<!-- ===========================Moon==================== -->
+				<div id="moon" onmousedown="createRover(event)">
+					<img class="img-responsive" src="img/moon.png" alt="MOON">
+				</div>
+				<!-- ==================Buttons================= -->
+				<div class="col-sm-1" id="buttons">
+					<button id="pp" class="btn btn-primary col-sm-12" onclick="togglePlayState('rovers')">
+						<!-- <span class="glyphicon glyphicon-play-circle"></span> -->
+						<!-- <span class="glyphicon glyphicon-pause"></span> -->
+						Play/Pause
+					</button>
+					<button id="clc" class="btn btn-info col-sm-12" onclick="clearRovers()">Clear All</button>
+					<button id="reset" class="btn btn-warning col-sm-12" onclick="resetAnimation()">Reset</button>
+				</div>				
 			</div>
+		</div>			
+		<!-- ==========Rovers============================ -->
+		<div id="rovers_div">				
+			<img class="rovers" id="r0" alt="R0" src="img/rover0.png">				
+			<img class="rovers" id="r1" src="img/rover1.png" alt="R1">	
+			<img class="rovers" id="r2" src="img/rover2.png" alt="R2">	
 		</div>
-		<div id="acknowledge" class="row">
-			<h2>I must acknowledge them for their support in frontend web-development.</h2>
-			<a class="btn btn-primary" target="_blank" href="http://github.com/">GITHUB</a>
-			<a class="btn btn-primary" target="_blank" href="http://getbootsrap.com/">BOOTSTRAP</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.flaticon.com/">flaticon</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.codecademy.com/learn">codecademy</a>
-			<a class="btn btn-primary" target="_blank" href="https://angularjs.org/">angular js</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.w3schools.com/">w3schools</a>
-			<a class="btn btn-primary" target="_blank" href="http://jquery.com/">jquery</a>
-			<a class="btn btn-primary" target="_blank" href="http://stackoverflow.com/">stackoverflow</a>
-			<a class="btn btn-primary" target="_blank" href="http://sass-lang.com/">sass</a>
-			<a class="btn btn-primary" target="_blank" href="http://compass-style.org/">compass</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.flatuicolorpicker.com/">flat ui color picker</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.gimp.org/">gimp</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.inkscape.org/">inkscape</a>
-			<a class="btn btn-primary" target="_blank" href="http://css-tricks.com/">css tricks</a>
-			<a class="btn btn-primary" target="_blank" href="http://tympanus.net/codrops/">codrops</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.awwwards.com/">awwwards</a>
-			<a class="btn btn-primary" target="_blank" href="http://modernizr.com/">modernizr</a>
-			<a class="btn btn-primary" target="_blank" href="http://necolas.github.io/normalize.css/">normalize</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.sublimetext.com/">Sublime text</a>
-			<a class="btn btn-primary" target="_blank" href="https://www.ruby-lang.org/">Ruby</a>
-			<a class="btn btn-primary" target="_blank" href="http://nodejs.org/">node js</a>
-			<a class="btn btn-primary" target="_blank" href="http://www.google.com/fonts">Google Fonts</a>
-		</div>
-		<div id="projects" class="row">
-			<h2>My work in the following projects</h2>
-			<div class="col-xs-4">
-				<a class="btn btn-warning" target="_blank" href="#">SHAASTRA</a>
-			</div>
-			<div class="col-xs-4">
-				<a class="btn btn-warning" target="_blank" href="#">SAARANG</a>
-			</div>
-			<div class="col-xs-4">
-				<a class="btn btn-warning" target="_blank" href="#">My Ambition Box</a>
-			</div>
-		</div>
-		<div id="education" class="row">
-			<h2>Formal Education</h2>
-			<div class="col-xs-6">
-				<a class="btn btn-warning" target="_blank" href="http://dbms.edu.in/">DBMS English School, Jamshedpur</a>				
-			</div>
-			<div class="col-xs-6">
-				<a class="btn btn-warning" target="_blank" href="http://www.iitm.ac.in/">Indian Institute of Technology Madras</a>
-			</div>
-		</div>
-		<div id="lived" class="row">
-			<h2>I have lived in the following cities</h2>
-			<div class="col-xs-6">
-				<a class="btn btn-info" target="_blank" href="http://www.tatanagar.com/">Jamshedpur/Tatanagar</a>				
-			</div>
-			<div class="col-xs-6">
-				<a class="btn btn-info" target="_blank" href="f">Chennai/Madras</a>
-			</div>
-		</div>		
-		<div id="socialConnect" class="row">
-			<h2>You can connect with me socially via:</h2>
-			<a class="btn btn-success" target="_blank" href="https://www.facebook.com/abhishek.sandy">Facebook</a>
-			<a class="btn btn-success" target="_blank" href="https://twitter.com/abhiShandy">Twitter</a>
-		</div>
-	</div>
-<script type="text/javascript" src="js/jsCollection.js"></script>
-<!-- <script type="text/javascript" src="js/bootstrap.min.js"></script> -->
-<script type="text/javascript">
-	// horizontalAlign("intro",50, "fixed");
-	// verticalAlign("acknowledge",100, "fixed");
-	// horizontalAlign("acknowledge",50, "fixed");
-</script>
-</body>
+	</body>
 </html>
