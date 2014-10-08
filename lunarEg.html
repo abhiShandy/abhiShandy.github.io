@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+ 	<head>
+ 		<title>LUNAR</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<link rel="shortcut icon" href="img/favicon.ico">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+		<script type="text/javascript" src="js/script.js"></script>
+	</head>
+	<body>
+		<div class="container-fluid" >	<!-- don't remove fuid --> 
+			<div class="row">
+				<!-- =======================================Space================================= -->
+				<!-- <p onmousedown="test(event)">Click here</p> -->
+				<div id="bg">
+					<img class="img-responsive" src="img/background.jpg" alt="BG">
+				</div>				
+				<!-- ===========================Moon==================== -->
+				<div id="moon" onmousedown="createRover(event)">
+					<img class="img-responsive" src="img/moon.png" alt="MOON">
+				</div>
+				<!-- ==================Buttons================= -->
+				<div class="col-sm-1" id="buttons">
+					<button id="pp" class="btn btn-primary col-sm-12" onclick="togglePlayState('rovers')">
+						<!-- <span class="glyphicon glyphicon-play-circle"></span> -->
+						<!-- <span class="glyphicon glyphicon-pause"></span> -->
+						Play/Pause
+					</button>
+					<button id="clc" class="btn btn-info col-sm-12" onclick="clearRovers()">Clear All</button>
+					<button id="reset" class="btn btn-warning col-sm-12" onclick="resetAnimation()">Reset</button>
+				</div>				
+			</div>
+		</div>			
+		<!-- ==========Rovers============================ -->
+		<div id="rovers_div">				
+			<img class="rovers" id="r0" alt="R0" src="img/rover0.png">				
+			<img class="rovers" id="r1" src="img/rover1.png" alt="R1">	
+			<img class="rovers" id="r2" src="img/rover2.png" alt="R2">	
+		</div>
+	</body>
+</html>
