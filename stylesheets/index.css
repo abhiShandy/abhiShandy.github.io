@@ -35,10 +35,5 @@ body h1, body h2 {
 /* line 29, ../sass/index.scss */
 body a {
   font-family: "Open Sans Condensed",cursive;
-  font-size: 1.5em;
   font-weight: 400;
-}
-/* line 34, ../sass/index.scss */
-body li {
-  font-size: 1.5em;
 }
