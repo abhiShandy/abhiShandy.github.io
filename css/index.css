@@ -1,44 +1,30 @@
-/* line 1, ../sass/index.scss */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900);
+/* line 2, ../sass/index.scss */
 #intro {
-  text-align: center;
-}
-/* line 3, ../sass/index.scss */
-#intro a {
-  text-decoration: none;
+  color: #ECF0F1;
 }
 
-/* line 7, ../sass/index.scss */
-#gen {
-  display: none;
+/* line 5, ../sass/index.scss */
+.page-header {
+  font-family: "Roboto";
+  font-weight: 900;
+  font-size: 5rem;
 }
 
-/* line 10, ../sass/index.scss */
-#acknowledge a {
+/* line 11, ../sass/index.scss */
+.tabpanel .tab-pane ul li {
+  font-size: 5rem;
+}
+
+/* line 15, ../sass/index.scss */
+body > * {
+  font-family: "Roboto";
   color: white;
-  text-decoration: none;
-  text-transform: uppercase;
-  margin-bottom: 0.4em;
 }
 
-/* line 16, ../sass/index.scss */
-#projects a,
-#lived a,
-#education a {
-  width: 100%;
-  text-align: center;
-}
-
-/* line 26, ../sass/index.scss */
-body h1, body h2 {
-  font-family: "Open Sans Condensed",cursive;
-}
-/* line 29, ../sass/index.scss */
-body a {
-  font-family: "Open Sans Condensed",cursive;
-  font-size: 1.5em;
-  font-weight: 400;
-}
-/* line 34, ../sass/index.scss */
-body li {
-  font-size: 1.5em;
+/* line 19, ../sass/index.scss */
+body {
+  background-image: url("../img/space_eye.jpg");
+  background-position: center;
+  background-size: cover;
 }

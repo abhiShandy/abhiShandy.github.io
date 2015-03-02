@@ -1,37 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900);
 #intro{
-	text-align: center;
-	a{
-		text-decoration: none;
+	color: #ECF0F1;
+}
+.page-header{
+	font-family: "Roboto";
+	font-weight: 900;
+	font-size: 5rem;
+}
+.tabpanel .tab-pane{
+	ul li{
+		font-size: 5rem;
 	}
 }
-#gen{
-	display: none;
-}
-#acknowledge a{
+body>*{
+	font-family: "Roboto";
 	color: white;
-	text-decoration: none;
-	text-transform: uppercase;
-	margin-bottom: 0.4em;
-}
-#projects a,
-#lived a,
-#education a{
-	width: 100%;
-	text-align: center;
-}
-#projects a{
-	// background-color: #F64747;
 }
 body{
-	h1,h2{
-		font-family: "Open Sans Condensed",cursive;		
-	}
-	a{
-		font-family: "Open Sans Condensed",cursive;
-		font-size: 1.5em;
-		font-weight: 400;
-	}
-	li{
-		font-size: 1.5em;
-	}
+	background-image: url("../img/space_eye.jpg");
+	background-position: center;
+	background-size: cover;
 }
