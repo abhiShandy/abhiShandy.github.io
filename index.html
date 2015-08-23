@@ -7,29 +7,27 @@
 	<!-- JS -->
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
 	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script src="bower_components/angular/angular.min.js"></script>
 </head>
-<body>
+<body ng-app="abhishandy">
 	<div class="page-header text-center">
 		<h1>Abhishek Shandilya</h1>
 	</div>
-	<div class="container">
-		<div class="row">
-			<h2>Education</h2>
-			<p>Dual Degree (B.Tech &amp; M.Tech) student, Department of Metallurgical and Materials Engineering, Indian Institute of Technology Madras, India</p>
-			<p>Class XII, ISC Board, DBMS English School, Jamshedpur, India</p>
-			<p>Class X, ICSE Board, DBMS English School, Jamshedpur, India</p>
+	<div class="container" ng-controller="mainCtrl">
+		<div class="row" ng-repeat="section in sections">
+			<h2>{{ section.title | uppercase }}</h2>
+			<table class="table">
+				<tr ng-repeat="point in section.points">
+					<td>{{point.main}}</td>
+					<td>{{point.period}}</td>
+				</tr>
+			</table>
 		</div>
-		<div class="row">
-			<h2>Projects</h2>
-			<p>Modelling and Simulation of Dendritic Morphology in Solidification of undercooled melt using phase-field and lattice-Boltzmann method, under Dr. Gerald Tennyson and Dr. Mahesh Mynam, Process Engg. Department, TRDDC, Pune, India</p>
-			<p>Studying the role of Flow-Modifiers employed in Tundish, under Dr. Anil Kumar, R&amp;D Department, TATA Steel, Jamshedpur, India</p>
-		</div>
-		<div class="row">
-			<h2>Skills</h2>
-			<p>Frontend web-development: HTML5, CSS3, Javascript</p>
-			<p>Programming: Java, C, C++, Python</p>
-			<p>Engineering Softwares: MATLAB, SolidWorks, AutoCAD</p>
-		</div>
+		<footer class="pull-right">
+			Last updated on 23rd August 2015
+		</footer>
 	</div>
+	<!-- AngularJS app -->
+	<script src="js/app.js"></script>
 </body>
 </html>
