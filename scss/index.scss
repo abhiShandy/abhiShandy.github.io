@@ -5,6 +5,7 @@ body>*{
 }
 
 td,
+li,
 footer {
 	font-weight: 300;
 }
@@ -14,10 +15,22 @@ footer {
 }
 
 .table tr {
+	$w: 85%;
 	td:nth-child(1) {
-		width: 90%;
+		width: $w;
 	}
 	td:nth-child(2) {
-		width: 10%
+		width: 100% - $w;
+	}
+}
+
+li {
+	list-style-type: none;
+	a{
+		color: grey;
+		&:hover {
+			text-decoration: none;
+			color: black;
+		}
 	}
 }

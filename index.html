@@ -14,17 +14,28 @@
 		<h1>Abhishek Shandilya</h1>
 	</div>
 	<div class="container" ng-controller="mainCtrl">
-		<div class="row" ng-repeat="section in sections">
-			<h2>{{ section.title | uppercase }}</h2>
-			<table class="table">
-				<tr ng-repeat="point in section.points">
-					<td>{{point.main}}</td>
-					<td>{{point.period}}</td>
-				</tr>
-			</table>
+		<div class="row">
+			<div class="col-md-9 col-xs-12">
+				<div class="row" ng-repeat="section in sections">
+					<h2 id="{{section.title}}">{{ section.title | uppercase }}</h2>
+					<table class="table">
+						<tr ng-repeat="point in section.points">
+							<td>{{point.main}}</td>
+							<td>{{point.period}}</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="col-md-3 hidden-xs hidden-sm">
+				<ul class="nav">
+					<li ng-repeat="section in sections">
+						<a href="#{{section.title}}">{{ section.title | uppercase }}</a>
+					</li>
+				</ul>
+			</div>
 		</div>
 		<footer class="pull-right">
-			Last updated on 23rd August 2015
+			Last updated on 24th August 2015
 		</footer>
 	</div>
 	<!-- AngularJS app -->
