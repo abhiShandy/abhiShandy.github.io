@@ -5,8 +5,8 @@ app.controller('mainCtrl', ['$scope', function($scope){
 		title: "education",
 		points: [{
 			completed: false,
-			main: "Dual Degree (B.Tech & M.Tech) student, Department of Metallurgical and Materials Engineering, Indian Institute of Technology Madras, India",
-			period: "2012 - 2017"
+			main: "Dual Degree (B.Tech & M.Tech), Department of Metallurgical and Materials Engineering, Indian Institute of Technology Madras, India",
+			period: "2017"
 		}, {
 			completed: true,
 			main: "Class XII, ISC Board, DBMS English School, Jamshedpur, India",
@@ -31,7 +31,10 @@ app.controller('mainCtrl', ['$scope', function($scope){
 	}, {
 		title: "projects",
 		points: [{
-			main: "Compaction and Sintering of Alumina",
+			main: "Modelling and Simulation of Frank-Read source, IIT Madras",
+			period: "2015"
+		}, {
+			main: "Compaction and Sintering of Alumina, IIT Madras",
 			period: "2015"
 		}, {
 			main: "Modelling and Simulation of Dendritic Morphology in Solidification of undercooled melt using phase-field and lattice-Boltzmann method, under Dr. Gerald Tennyson and Dr. Mahesh Mynam, Process Engg. Department, TRDDC, Pune, India",
