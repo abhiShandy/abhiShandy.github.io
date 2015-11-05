@@ -31,6 +31,9 @@ app.controller('mainCtrl', ['$scope', function($scope){
 	}, {
 		title: "projects",
 		points: [{
+			main: "Failure modes in high strength and stiffness to weight scaffolds produced by Selective Laser Melting",
+			period: "2015"
+		}, {
 			main: "Modelling and Simulation of Frank-Read source, IIT Madras",
 			period: "2015"
 		}, {
