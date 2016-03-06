@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Shandilya</title>
+    <description>Learn more about Abhishek Shandilya by going through his projects, blog and work experience
+</description>
+    <link>http://abhishandy.github.io/</link>
+    <atom:link href="http://abhishandy.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Mar 2016 23:34:23 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 23:34:23 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>Welcome to my blog!</title>
+        <description>&lt;p&gt;Welcome to my blog made with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here, I’ll post some technical walkthroughs which(I think) is fairly useful for students(rather geeks) of IIT Madras.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 Mar 2016 22:56:40 +0000</pubDate>
+        <link>http://abhishandy.github.io/jekyll/update/2016/03/06/welcome-to-my-blog.html</link>
+        <guid isPermaLink="true">http://abhishandy.github.io/jekyll/update/2016/03/06/welcome-to-my-blog.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

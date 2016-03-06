@@ -1,46 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-	<meta charset="utf-8"/>
-	<title>abhiShandy@GITHUB</title>
-	<!-- CSS -->
-	<link rel="stylesheet" href="css/index.css">
-	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-	<!-- JS -->
-	<script src="bower_components/jquery/dist/jquery.min.js"></script>
-	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-	<script src="bower_components/angular/angular.min.js"></script>
-</head>
-<body ng-app="abhishandy">
-	<div class="page-header text-center">
-		<h1>Abhishek Shandilya</h1>
-	</div>
-	<div class="container" ng-controller="mainCtrl">
-		<div class="row">
-			<div class="col-md-9 col-xs-12">
-				<div class="row" ng-repeat="section in sections">
-					<h2 id="{{section.title}}">{{ section.title | uppercase }}</h2>
-					<table class="table">
-						<tr ng-repeat="point in section.points">
-							<td>{{point.main}}</td>
-							<td>{{point.period}}</td>
-						</tr>
-					</table>
-				</div>
-			</div>
-			<div class="col-md-3 hidden-xs hidden-sm" role="complementary">
-				<ul class="nav" data-spy="affix">
-					<li ng-repeat="section in sections">
-						<a href="#{{section.title}}">{{ section.title | uppercase }}</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-		<footer class="pull-right">
-			Last updated on 14th September 2015
-		</footer>
-	</div>
-	<!-- AngularJS app -->
-	<script src="js/app.js"></script>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+</div>
