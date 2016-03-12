@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my blog!"
 date:   2016-03-06 22:56:40 +0000
-categories: jekyll update
+categories: blog
 ---
 Welcome to my blog made with [Jekyll][jekyll-site].
 
