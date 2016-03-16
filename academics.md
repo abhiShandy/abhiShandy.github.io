@@ -23,3 +23,16 @@ I completed my Class X and successively Class XII through CISCE Board at DBMS En
 
 - Differential Equations
 - Calculus I, II
+
+#### Economics
+- Principles of Economics
+- Economics of Industrial Organisations
+
+#### Aerospace
+- Helicopter Aerodynamics
+- Control Systems
+
+#### Micro Electronics
+- Introduction to Plastic Electronics
+- Solar Cell Devices Physics and Materials Technology
+- Introduction Seminconductor Devices
