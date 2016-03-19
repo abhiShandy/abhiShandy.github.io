@@ -6,9 +6,9 @@
 </description>
     <link>http://abhishandy.github.io/</link>
     <atom:link href="http://abhishandy.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Mar 2016 12:33:49 +0530</pubDate>
-    <lastBuildDate>Sat, 12 Mar 2016 12:33:49 +0530</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Sat, 19 Mar 2016 11:48:58 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2016 11:48:58 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
     
       <item>
         <title>Ruby Development Error</title>
@@ -22,7 +22,7 @@
 
 &lt;p&gt;Refer &lt;a href=&quot;https://github.com/rvm/rvm/issues/3509&quot;&gt;this issue&lt;/a&gt; in rvm’s repo&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Mar 2016 11:30:00 +0530</pubDate>
+        <pubDate>Sat, 12 Mar 2016 11:30:00 +0000</pubDate>
         <link>http://abhishandy.github.io/tech/2016/03/12/ruby-developement-error.html</link>
         <guid isPermaLink="true">http://abhishandy.github.io/tech/2016/03/12/ruby-developement-error.html</guid>
         
@@ -51,7 +51,7 @@
 
 &lt;p&gt;Refer &lt;a href=&quot;http://www.howtogeek.com/170794/ask-htg-how-can-i-reclaim-the-full-capacity-of-an-sd-card/&quot;&gt;the HTG post&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Mar 2016 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
         <link>http://abhishandy.github.io/tech/2016/03/12/reclaiming-sd-card-memory.html</link>
         <guid isPermaLink="true">http://abhishandy.github.io/tech/2016/03/12/reclaiming-sd-card-memory.html</guid>
         
@@ -69,9 +69,9 @@
 &lt;p&gt;Here, I’ll post some technical walkthroughs which(I think) is fairly useful for students(rather geeks) of IIT Madras.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 07 Mar 2016 04:26:40 +0530</pubDate>
-        <link>http://abhishandy.github.io/blog/2016/03/07/welcome-to-my-blog.html</link>
-        <guid isPermaLink="true">http://abhishandy.github.io/blog/2016/03/07/welcome-to-my-blog.html</guid>
+        <pubDate>Sun, 06 Mar 2016 22:56:40 +0000</pubDate>
+        <link>http://abhishandy.github.io/blog/2016/03/06/welcome-to-my-blog.html</link>
+        <guid isPermaLink="true">http://abhishandy.github.io/blog/2016/03/06/welcome-to-my-blog.html</guid>
         
         
         <category>blog</category>

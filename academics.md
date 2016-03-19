@@ -12,9 +12,9 @@ I completed my Class X and successively Class XII through CISCE Board at DBMS En
 
 #### Metallurgy and Material Science
 
-- Material Thermodynamics
+- Metallurgical Thermodynamics
 - Numerical Methods for Metallurgists
-- Multi Scale Modelling of Materials
+- Multi-Scale Modelling of Materials
 - Computational Material Thermodynamics
 - Advanced Phase Transformations
 - Welding Metallurgy
