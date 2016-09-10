@@ -1,9 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about
+layout: default
 ---
-
 Welcome to my website!
 
 I am currently a student at IIT Madras, pursuing Dual Degree(B.Tech & M.Tech) in Metallurgical and Materials Engineering.
