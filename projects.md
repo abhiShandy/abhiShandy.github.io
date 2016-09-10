@@ -16,3 +16,5 @@ permalink: /projects
 # Web Development
 1. Shaastra and Saarang
 2. AdWyze
+3. HEA
+4. SolarDC and UDC
