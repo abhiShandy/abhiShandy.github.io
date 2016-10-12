@@ -5,7 +5,9 @@ permalink: /projects
 ---
 
 ## Modelling and Simulation
+
 ### 1. Master's Thesis
+
 ### 2. TRDDC
 
 ### 3. Scaffold
@@ -14,6 +16,7 @@ I applied finite element method (FEM) to analyse the scaffolds manufactured usin
 ### 4. Frank Read Sources
 
 ## Web Development
+
 ### 1. Shaastra and Saarang
 
 ### 2. AdWyze
@@ -25,5 +28,7 @@ I developed a static website for the High Entropy Alloys research group in India
 ### 4. SolarDC and UDC
 
 ## Robotics
+
 ### 1. Robocon
+
 ### 2. Gold Rush
