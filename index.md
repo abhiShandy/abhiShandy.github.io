@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+
+![Abhishek Shandilya]({{ site.url }}/assets/main.jpg)
+
 Welcome to my website!
 
-I am currently a student at IIT Madras, pursuing Dual Degree(B.Tech & M.Tech) in Metallurgical and Materials Engineering.
-
-I am interested in robots(specially aerial), artificial intelligence, web technologies and high performance computing.
+I am currently a final year student at [IIT Madras](http://www.iitm.ac.in/), pursuing Dual Degree(B.Tech & M.Tech) in Metallurgical and Materials Engineering. I hail from the steel and green city of [Jamshedpur](https://en.wikipedia.org/wiki/Jamshedpur).

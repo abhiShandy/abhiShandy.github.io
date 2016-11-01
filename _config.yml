@@ -9,12 +9,13 @@
 title: Abhishek Shandilya
 email: abhishek.sandy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn more about Abhishek Shandilya by going through his projects,
-  work experience and blog
+  Website of Abhishek Shandilya
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abhishandy.github.io" # the base hostname & protocol for your site
-twitter_username: abhishandy
 github_username:  abhishandy
+twitter_username: abhishandy
+facebook_username:  abhishek.sandy
+instagram_username:  abhishandy
 
 # Build settings
 markdown: kramdown
