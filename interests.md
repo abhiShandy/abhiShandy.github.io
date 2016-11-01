@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests
-permalink: /sports
+permalink: /interests
 ---
 
 ## Photography
