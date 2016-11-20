@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interests
-permalink: /interests
+title: Extra Curricular
+permalink: /extra-curricular
 ---
 
 ## Photography
@@ -9,7 +9,7 @@ permalink: /interests
 
 ![Macro Flowers]({{site.url}}/assets/macro.jpg)
 
-Taking pictures is my newly found interest. You can find many of my clicks on my [Instagram account](https://instagram.com/abhishandy).
+Taking pictures is my newly found interest. You can find many of my clicks on my [500pxaccount](https://500px.com/abhishandy) [Instagram account](https://instagram.com/abhishandy).
 
 ## Sports
 
