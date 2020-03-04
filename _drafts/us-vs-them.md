@@ -1,0 +1,12 @@
+---
+layout: post
+title: Us versus them
+---
+
+Every community feels like they are better than every other community in the world. I recently read about this phenomena on **Sapiens** by Yuvan Noah Harari. Such feelings exist in different form in every community.
+
+# Republicans and Democrats are the same
+For example, Republicans don't like immigrants coming to US and stealing their jobs for lesser pay. Democrats accuse them to be racist and xenophobic. However, they do the same in a different form. When they see Bernie Sanders gaining more popularity and delegates for the nomination, they take desperate measures to gather support for the second best candidate. Recently, they asked two younger candidates -- Peter Buttigieg and Amy Klobuchar -- to step down and endorse Joe Biden. This is simply outrageous. Loopholes in democracy are exposed when candidates are forced to step down to make way for a supposedly more suitable candidate.
+
+# National election == College election
+Such suppresion of candidates was also seen in elections at my college. Potential competition were offered core positions of cultural or technical fests (sought after managerial positions in college festivals) in exchange of stepping down and making the remaining candidate the only one standing for election.
