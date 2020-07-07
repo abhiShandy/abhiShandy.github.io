@@ -1,5 +1,4 @@
 ---
-layout: post
 title:	"Ruby Development Error"
 date: 12-03-2016 11:30
 category: tech

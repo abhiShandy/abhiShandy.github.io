@@ -1,13 +1,8 @@
 ---
-layout: post
 date: April 29, 2020
 title: Dissipative Particle Dynamics
 wiki: https://en.wikipedia.org/wiki/Dissipative_particle_dynamics
 ---
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 It is a mesoscale method to simulate fluids and soft materials.
 
 Unlike MD, governing forces are not fundamental. There are three kinds of forces: conservative, dissipative and random.

@@ -1,0 +1,7 @@
+main:
+  - title: "Notes"
+    url: /notes
+  - title: "Cheatsheets"
+    url: /cheatsheets
+  - title: "CV"
+    url: /cv

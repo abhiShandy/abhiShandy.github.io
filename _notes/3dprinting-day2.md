@@ -1,5 +1,4 @@
 ---
-layout: post
 date: June 10, 2020
 title: 3D printing - Day 2
 ---

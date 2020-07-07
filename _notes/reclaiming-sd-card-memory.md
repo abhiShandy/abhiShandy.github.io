@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Reclaiming SD card memory
 date: 2016-03-12
 category: tech

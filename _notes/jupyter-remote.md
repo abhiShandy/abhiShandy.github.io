@@ -1,5 +1,4 @@
 ---
-layout: post
 date: Jun 10, 2020
 title: Running Jupyter notbook remotely
 ---

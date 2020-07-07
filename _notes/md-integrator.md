@@ -1,12 +1,8 @@
 ---
-layout: post
 date: Apr 29, 2020
 title: Integrators in Molecular Dynamics
 wiki: https://en.wikipedia.org/wiki/Verlet_integration
 ---
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 There are several kinds of integrators algorithms for carrying out molecular dynamics.
 1. Velocity-Verlet

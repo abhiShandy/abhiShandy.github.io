@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Stringing test
 date: June 13, 2020
 ---
 
-Refer the [All3DP article on stringing](https://all3dp.com/2/3d-print-stringing-easy-ways-to-prevent-it/)
+I must calibrate the extrusion temperature, retraction length and speed to prevent stringing in my prints. Here, I share my notes of the iterative process.
 
 # Iteration 1
 Default Cura settings: 20% infill
