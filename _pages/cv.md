@@ -5,8 +5,8 @@ classes: wide
 ---
 
 ## Education
-- Ph.D., Materials Engineering, Rensselaer Polytechnic Institute (RPI), Troy, NY
-- B.Tech. and M.Tech., Metallurgical and Materials Engineering, IIT Madras, India
+- Ph.D., [Materials Science and Engineering, Rensselaer Polytechnic Institute](https://mse.rpi.edu/), USA
+- B.Tech. and M.Tech., [Metallurgical and Materials Engineering, IIT Madras](https://mme.iitm.ac.in/), India
 
 ## Skills
 
@@ -25,26 +25,35 @@ classes: wide
 
 ## Presentations
 
-1. <i>Trap state distribution in polymer nanocomposite interphases from first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; presented at ACS Spring meeting 2019, Orlando, FL
+1. <i>Modeling mechanical strength of interphases in polymer nanodielectrics</i>; <b>A. Shandilya</b>, R. Sundararaman; Annual CMDIS (Center for Materials Devices and Integrated Systems) Symposium 2019, Troy, NY
 
-2. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; presented at National Metallurgy Day 2015, Coimbatore, India
+2. <i>Identifying traps in polymer nanocomposites using first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ASM Eastern New York chapter 2019, Troy, NY
+
+3. <i>Trap state distribution in polymer nanocomposite interphases from first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ACS (American Chemical Society Spring meeting 2019, Orlando, FL
+
+4. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; National Metallurgy Day 2015, Coimbatore, India
+
+
 
 ## Teaching
-1. Teaching assistant: Computational materials design, Spring 2018 & 2019
-	- Rensselaer Polytechnic Institute (RPI), Troy, NY
+1. Teaching assistant: Computational materials design
+	- Spring 2018 & Spring 2019, Rensselaer Polytechnic Institute
 
-2. Teaching assistant: Transport phenomena for metallurgists, Spring 2017
-	- Indian Institute of Technology (IIT) Madras, Chennai, India
+2. Summer outreach: Introduction to Materials Science
+	- Summer 2018 & Summer 2019, Rensselaer Polytechnic Institute
+
+3. Teaching assistant: Transport phenomena for metallurgists
+	- Spring 2017, IIT Madras
 
 ## Professional Experience
 
-1. Research intern, Summer 2015, Tata Research Development and Design Center (TRDDC), Pune, India
+1. <b>Research intern</b>, Tata Research Development and Design Center, Pune, India <span style="float: right; font-style: italic;">Summer 2015</span>
 	- Simulated dendritic growth during solidification of a pure metal using phase-field method and achieved 10X speedup through parallel computation
 
-2. Research intern, Summer 2014, Research & Development, Tata Steel, Jamshedpur, India
+2. <b>Research intern</b>, Research & Development Tata Steel, Jamshedpur, India <span style="float: right; font-style: italic;">Summer 2014</span>
 	- Conducted water-simulations of molten steel flowing through a tundish to study the effects of various tundish furniture on residence time distribution of inclusions
 
-3. Frontend web-developer intern, December 2014, [Clarisights](https://clarisights.com/), Bangalore, India
+3. <b>Frontend web-developer intern</b>, [Clarisights](https://clarisights.com/), Bangalore, India <span style="float: right; font-style: italic;">December 2014</span>
 	- Setup rigorous form verification rules and re-factored the front-end stack using Bootsrap on Ruby-Rails
 
 

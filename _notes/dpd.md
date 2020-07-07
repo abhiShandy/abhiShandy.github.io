@@ -19,11 +19,11 @@ w(r) &=& 1-r/r_c\\
 the model parameters are related
 <p>\[\sigma^2 = 2\gamma k_B T\]</p>
 
-# Conservative force
+## Conservative force
 It is softer than the hard LJ R-12 replusion.
 
-# Dissipative force
+## Dissipative force
 This force negates relative velocities between two particles, which leads to cooperative motion among the particles.
 
-# Random force
+## Random force
 This random force is zero in average, to conserve momentum.

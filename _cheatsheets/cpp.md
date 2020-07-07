@@ -1,6 +1,7 @@
 ---
+title: C++
 date: July 6, 2020
-title: C++ cheatsheet
+excerpt: ""
 ---
 
 ## Standard libraries

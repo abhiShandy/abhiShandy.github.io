@@ -1,7 +1,9 @@
 main:
+  - title: "projects"
+    url: /projects
   - title: "CV"
     url: /cv
-  - title: "Notes"
+  - title: "notes"
     url: /notes
-  - title: "Cheatsheets"
+  - title: "cheatsheets"
     url: /cheatsheets
