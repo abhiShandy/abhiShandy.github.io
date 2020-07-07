@@ -7,3 +7,5 @@ Improved dielectric breakdown strength of polymer nanodielectrics is believed to
 
 {% include figure image_path="/assets/images/mobilityTEM.png" caption="Monte Carlo predictions of electron mobilities from TEM images of 30 PS-Silica-Octyl samples at different weight fraction of Silica nanofiller. Red dashed line is drawn at the average mobility for each set of 30 samples. Each black dot and gray bar shows the average and error calculated from 512 electron
 trajectories for TEM image." %}
+
+Part of this work was published recently in the [Journal of Physics D: Applied Physics](https://doi.org/10.1088/1361-6463/ab8b01).

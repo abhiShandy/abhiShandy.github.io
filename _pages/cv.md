@@ -31,8 +31,9 @@ classes: wide
 
 3. <i>Trap state distribution in polymer nanocomposite interphases from first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ACS (American Chemical Society Spring meeting 2019, Orlando, FL
 
-4. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; National Metallurgy Day 2015, Coimbatore, India
+4. <i>Identifying useful quantum defects using AI</i>; <b>A. Shandilya</b>, R. Sundararaman; RPI-IBM Artificial Intelligence Horizons Network (AIHN) poster social, Feb 2019, Troy, NY
 
+5. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; National Metallurgy Day 2015, Coimbatore, India
 
 
 ## Teaching
@@ -47,13 +48,13 @@ classes: wide
 
 ## Professional Experience
 
-1. <b>Research intern</b>, Tata Research Development and Design Center, Pune, India <span style="float: right; font-style: italic;">Summer 2015</span>
+1. <b>Research intern</b>, Tata Research Development and Design Center, Pune, India <span class="cv-year">Summer 2015</span>
 	- Simulated dendritic growth during solidification of a pure metal using phase-field method and achieved 10X speedup through parallel computation
 
-2. <b>Research intern</b>, Research & Development Tata Steel, Jamshedpur, India <span style="float: right; font-style: italic;">Summer 2014</span>
+2. <b>Research intern</b>, Research & Development Tata Steel, Jamshedpur, India <span class="cv-year">Summer 2014</span>
 	- Conducted water-simulations of molten steel flowing through a tundish to study the effects of various tundish furniture on residence time distribution of inclusions
 
-3. <b>Frontend web-developer intern</b>, [Clarisights](https://clarisights.com/), Bangalore, India <span style="float: right; font-style: italic;">December 2014</span>
+3. <b>Frontend web-developer intern</b>, [Clarisights](https://clarisights.com/), Bangalore, India <span class="cv-year">December 2014</span>
 	- Setup rigorous form verification rules and re-factored the front-end stack using Bootsrap on Ruby-Rails
 
 
@@ -67,9 +68,9 @@ classes: wide
 	- [Pull requests](https://github.com/ethereumbook/ethereumbook/pulls?q=is%3Apr+is%3Aclosed+author%3AabhiShandy): Fixed typesetting and spelling mistakes
 
 ## Awards and Prizes
--  Norman S. Stoloff Reseach Excellence Award 2020
-	- Most significant graduate student reseach in the department of Materials Science and Engineering of RPI
-- Best RPI Hack, HackRPI Fall 2019
-	- Developed an interactive web-based tutorial for gates in quantum computing, using ReactJS and IBM Qiskit
-- Placed 6th in Virtual steel-making challenge, SteelUniversity, 2013
+-  Norman S. Stoloff Reseach Excellence Award <span class="cv-year">2020</span>
+	- Most significant graduate student research in the Department of Materials Science and Engineering
+- Best RPI Hack, [HackRPI](https://hackrpi.com/) <span class="cv-year">2019</span>
+	- Developed an interactive web-based tutorial for gates in quantum computing using ReactJS and IBM Qiskit
+- Placed 6th in Virtual steel-making challenge, [SteelUniversity](https://steeluniversity.org/), <span class="cv-year">2013</span>
 <!-- - Represented IIT Madras at the national robotics competition, 2014 -->
