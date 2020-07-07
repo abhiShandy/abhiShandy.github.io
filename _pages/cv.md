@@ -25,15 +25,27 @@ classes: wide
 
 ## Presentations
 
-1. <i>Modeling mechanical strength of interphases in polymer nanodielectrics</i>; <b>A. Shandilya</b>, R. Sundararaman; Annual CMDIS (Center for Materials Devices and Integrated Systems) Symposium 2019, Troy, NY
+1. <i>Plotting with Python</i>; A. Shandilya, CMDIS open forum, June 2020.
 
-2. <i>Identifying traps in polymer nanocomposites using first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ASM Eastern New York chapter 2019, Troy, NY
+2. <i>First-principles identification of localized trap states in polymer nanocomposite interfaces</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; Norman S. Stoloff award seminar, 2020
 
-3. <i>Trap state distribution in polymer nanocomposite interphases from first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ACS (American Chemical Society Spring meeting 2019, Orlando, FL
+3. <i>Modeling mechanical strength of interphases in polymer nanodielectrics</i>; <b>A. Shandilya</b>, R. Sundararaman; Annual CMDIS (Center for Materials Devices and Integrated Systems) Symposium 2019, Troy, NY
 
-4. <i>Identifying useful quantum defects using AI</i>; <b>A. Shandilya</b>, R. Sundararaman; RPI-IBM Artificial Intelligence Horizons Network (AIHN) poster social, Feb 2019, Troy, NY
+4. <i>Identifying traps in polymer nanocomposites interphases using first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; Materials Science Graduate Seminar, Sept 2019, Troy, NY
 
-5. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; National Metallurgy Day 2015, Coimbatore, India
+5. <i>Identifying traps in polymer nanocomposites using first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ASM Eastern New York chapter 2019, Troy, NY
+
+6. <i>Trap state distribution in polymer nanocomposite interphases from first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; RPI Graduate Research Symposium, Apr 2019, Troy, NY
+
+7. <i>Trap state distribution in polymer nanocomposite interphases from first principles</i>; <b>A. Shandilya</b>, L.S. Schadler, R. Sundararaman; ACS (American Chemical Society Spring meeting 2019, Orlando, FL
+
+8. <i>Identifying useful quantum defects using AI</i>; <b>A. Shandilya</b>, R. Sundararaman; RPI-IBM Artificial Intelligence Horizons Network (AIHN) poster social, Feb 2019, Troy, NY
+
+9. <i>A Data Centric Approach for Accelerating the Design of Future Nanostructured Polymer and Composite Systems</i>; Yichi Zhang, Yixing Wang, Aditya Prasad, Anqi Lin, <b>Abhishek Shandilya</b>, Tyree Ratcliff, Praveen Gupta, Wei Chen, Cate Brinson, Linda Schadler, Curt Breneman, Ravishankar Sundararaman; NSF accepted projects seminar, 2018
+
+10. <i>Simulations in Materials Science and Engineering</i>; A. Shandilya, RPI graduate students orientation, Aug 2017, Troy, NY
+
+11. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; National Metallurgy Day 2015, Coimbatore, India
 
 
 ## Teaching
