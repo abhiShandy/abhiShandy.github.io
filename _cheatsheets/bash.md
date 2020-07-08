@@ -23,3 +23,10 @@ done
 # select lines with fixed number of fields/columns
 awk 'NF==2 {print $2}'
 ```
+
+## SED
+
+```bash
+# replace string in-place with a backup extension
+sed -i .bak 's/hello/bonjour/' greetings.txt
+```
