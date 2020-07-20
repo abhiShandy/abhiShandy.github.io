@@ -48,26 +48,30 @@ classes: wide
 11. <i>Modeling and simulation of dendritic morphology in solidification of undercooled melt using phase-field and lattice-Boltzmann method</i>; <b>A. Shandilya</b>, M. Mynam, P.G. Tennyson; National Metallurgy Day 2015, Coimbatore, India
 
 
-## Teaching
+## Teaching & Mentorship
 1. Teaching assistant: Computational materials design
-	- Spring 2018 & Spring 2019, Rensselaer Polytechnic Institute
+	- Spring 2018 & Spring 2019, RPI
 
-2. Summer outreach: Introduction to Materials Science
-	- Summer 2018 & Summer 2019, Rensselaer Polytechnic Institute
+2. Introduction to Materials Science and Engineering for high-school students
+	- Summer 2018 & Summer 2019, RPI
 
 3. Teaching assistant: Transport phenomena for metallurgists
 	- Spring 2017, IIT Madras
 
-## Professional Experience
+4. Mentored founders of Web Operations club at IIT Palakkad
+	- 2015-16, IIT Madras
+
+## Internships
 
 1. <b>Research intern</b>, Tata Research Development and Design Center, Pune, India <span class="cv-year">Summer 2015</span>
-	- Simulated dendritic growth during solidification of a pure metal using phase-field method and achieved 10X speedup through parallel computation
-
-2. <b>Research intern</b>, Research & Development Tata Steel, Jamshedpur, India <span class="cv-year">Summer 2014</span>
-	- Conducted water-simulations of molten steel flowing through a tundish to study the effects of various tundish furniture on residence time distribution of inclusions
+	- Simulated dendritic growth during solidification of a pure metal using phase-field method
+	- Accelerated C++ phase-field program by 10X using MPI and OpenMP routines
 
 3. <b>Frontend web-developer intern</b>, [Clarisights](https://clarisights.com/), Bangalore, India <span class="cv-year">December 2014</span>
-	- Setup rigorous form verification rules and re-factored the front-end stack using Bootsrap on Ruby-Rails
+	- Built rigorous form verification rules, and refactored the frontend stack using Bootsrap on Ruby-Rails
+
+2. <b>Research intern</b>, Tata Steel, Jamshedpur, India <span class="cv-year">Summer 2014</span>
+	- Investigated residence time distribution of inclusions in molten steel flowing through a tundish using water-simulation
 
 
 ## FOSS contribution
@@ -79,10 +83,10 @@ classes: wide
 4. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook): Open-source book on Ethereum blockchain
 	- [Pull requests](https://github.com/ethereumbook/ethereumbook/pulls?q=is%3Apr+is%3Aclosed+author%3AabhiShandy): Fixed typesetting and spelling mistakes
 
-## Awards and Prizes
--  Norman S. Stoloff Reseach Excellence Award <span class="cv-year">2020</span>
-	- Most significant graduate student research in the Department of Materials Science and Engineering
-- Best RPI Hack, [HackRPI](https://hackrpi.com/) <span class="cv-year">2019</span>
-	- Developed an interactive web-based tutorial for gates in quantum computing using ReactJS and IBM Qiskit
-- Placed 6th in Virtual steel-making challenge, [SteelUniversity](https://steeluniversity.org/), <span class="cv-year">2013</span>
-<!-- - Represented IIT Madras at the national robotics competition, 2014 -->
+## Awards and Extra-Curricular
+- Norman S. Stoloff Reseach Excellence Award from Materials Engineering, RPI <span class="cv-year">2020</span>
+- Best RPI Hack, [HackRPI](https://hackrpi.com/) (annual hackathon at RPI) <span class="cv-year">2019</span>
+	- [QMystery](https://qumystery.tech/): An interactive tutorial for quantum logic gates using ReactJS and IBM Qiskit
+- Placed 6th among teams from Asia & Oceania in Virtual steel-making challenge by [SteelUniversity](https://steeluniversity.org/) <span class="cv-year">2013</span>
+- Represented IIT Madras at the RoboCon (national robotics competition) <span class="cv-year">2014</span>
+- Hobbies and interests: Bitcoin, 3D printing, photography, painting, web-designing

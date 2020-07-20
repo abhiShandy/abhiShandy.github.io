@@ -1,6 +1,7 @@
 ---
 title: Proposal - Identifying useful quantum defects in materials using AI
 date: February 15, 2019
+categoey: research
 ---
 
 Defects in crystalline materials have opened the door to a whole new world of possibilities for classical and quantum computing, but remain a key challenge for systematic discovery with the tools of computational materials science. Can Artificial Intelligence accelerate scientific exploration of this technologically critical space? Can it recommend promising candidates for experimental verification?

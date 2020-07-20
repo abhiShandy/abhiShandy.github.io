@@ -1,6 +1,7 @@
 ---
 title: Estimating carrier mobility from Monte Carlo electron hopping
 date: July 07, 2020
+category: research
 ---
 
 Improved dielectric breakdown strength of polymer nanodielectrics is believed to be originating from impeded charge transport due to surface traps on nanoparticles. These traps distort the energy landscape for charge carriers which in turn reduces their mobility. A Monte Carlo simulation of electrons hopping through this trap-filled energy landscape can model the role chemical constituents and thus help in designing next generation of dielectrics.
