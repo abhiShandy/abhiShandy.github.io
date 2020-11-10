@@ -1,11 +1,11 @@
 main:
-  - title: "Blog"
-    url: /
+  # - title: "Blog"
+  #   url: /
   - title: "Projects"
     url: /projects
   - title: "CV"
     url: /cv
-  - title: "Notes"
-    url: /notes
-  - title: "Cheatsheets"
-    url: /cheatsheets
+  # - title: "Notes"
+  #   url: /notes
+  # - title: "Cheatsheets"
+  #   url: /cheatsheets
